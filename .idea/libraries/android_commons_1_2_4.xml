@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="android-commons-1.2.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sample/build/intermediates/exploded-aar/com.alexvasilkov/android-commons/1.2.4/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/sample/build/intermediates/exploded-aar/com.alexvasilkov/android-commons/1.2.4/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/gradle-2.14.1-all/gradle-2.14.1/caches/modules-2/files-2.1/com.alexvasilkov/android-commons/1.2.4/36328553be3f293f6f0a7eb12180c537b5d3dd60/android-commons-1.2.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
